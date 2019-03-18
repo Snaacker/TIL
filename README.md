@@ -15,3 +15,6 @@ Friday - 23 Nov
 Thursday - 29 Nov
 - https://blog.drewolson.org/dependency-injection-in-go
 - https://blog.gojekengineering.com/the-many-flavours-of-dependency-injection-in-go-25aa070d79a0
+
+Monday - 18 Mar
+- Get start with ESB https://access.redhat.com/documentation/en-us/red_hat_fuse/7.0/
